@@ -4,7 +4,15 @@
 
 ## vtrtualbox
 
+vtrtualbox 是 vagrant 中默认的 provider ，这里实现了一个测试开发的简单 Vagrantfile  脚本  
+
+[vagrant 使用 virtualbox 构建 centos ](https://github.com/boilingfrog/vagrant-provider-script/tree/master/virtualbox)  
+
 ## docker
+
+docker 的实现过程和 vtrtualbox 类似，具体流程不详细介绍了，这里放了一个 provider 为 docker 的脚本  
+
+[vagrant 使用 docker 构建 centos ](https://github.com/boilingfrog/vagrant-provider-script/tree/master/docker)  
 
 
 
