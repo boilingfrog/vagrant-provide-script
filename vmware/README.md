@@ -10,6 +10,10 @@
 vagrant plugin install vagrant-vmware-desktop
 ```
 
+安装 `vmware Utility`   
+
+具体参见[vagrant-vmware-utility](https://www.vagrantup.com/docs/providers/vmware/vagrant-vmware-utility)  
+
 #### 启动
 
 这里的 Vagrantfile 已经写好了，直接在 Vagrantfile 当前目录，导入对应的 box，启动即可     
