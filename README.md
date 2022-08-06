@@ -14,6 +14,12 @@ docker 的实现过程和 vtrtualbox 类似，具体流程不详细介绍了，�
 
 [vagrant 使用 docker 构建 centos ](https://github.com/boilingfrog/vagrant-provider-script/tree/master/docker)  
 
+## vmware
+
+vmware 的实现过程和 vtrtualbox 类似，直接上脚本  
+
+[vagrant 使用 vmware 构建 centos ](https://github.com/boilingfrog/vagrant-provider-script/tree/master/vmware)   
+
 
 
 
